@@ -1,0 +1,11 @@
+/*! SampleType Enum */
+
+/*!
+ * Types of samples
+ */
+
+#ifndef LAKESUPERIORSTREAM_SAMPLETYPE_H
+#define LAKESUPERIORSTREAM_SAMPLETYPE_H
+
+enum class SampleType{RESEARCHER,SENSOR};
+#endif //LAKESUPERIORSTREAM_SAMPLETYPE_H
