@@ -1,6 +1,4 @@
 # LakeSuperiorStream
-This was from an in class project in Software Anaylsis and Design. The assignement was to create a program that can read in files of any format, but for now just csv files about lake superior streams.
-We were not required to use a GUI but we used a Gui to help give the user a better interface.
-Then with this data read in you prompt the user for a date and search through and find closest date in human observations and show relevant sampling information.
-After that, it compares it to a sensor readings within a day. The gui shows the averages of fields from the sensor.
-Finally it displays if the data needs to be checked by flagging bad information.
+This project was completed as part of a Software Analysis and Design course. The assignment tasked us with developing a program capable of reading various file formats, although, for the project's scope, we focused on CSV files related to Lake Superior streams. While not required, we decided to create a Graphical User Interface (GUI) to improve the user experience.
+
+The program's primary functionality involves prompting the user for a date and then searching for the closest corresponding date in human observations, presenting relevant sampling information. Additionally, the program performs a comparison with sensor readings within the day found. The GUI displays the averages of sensor fields, providing a user-friendly visual representation. In the end, the program assesses the data for any irregularities and flags potentially erroneous information.
